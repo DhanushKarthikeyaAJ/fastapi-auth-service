@@ -112,4 +112,4 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 
 ## 🧑‍💻 Author
 
-Built by [Dhanush Karthikeya A J] 
+Built by Dhanush Karthikeya A J
